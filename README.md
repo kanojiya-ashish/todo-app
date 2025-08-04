@@ -74,14 +74,3 @@ This project is licensed under the MIT License – feel free to use and modify i
 
 ---
 
-## 📌 Next Steps for You:
-
-1. **Make a `README.md` file** in your project folder.
-2. **Copy–paste the above markdown** into it.
-3. Update:
-   - `todo.py` if your file name is different
-   - Add your actual GitHub link in the profile
-4. Push everything to GitHub ✅
-
----
-
